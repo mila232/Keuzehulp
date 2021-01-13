@@ -6,7 +6,7 @@ Met deze keuzehulp wil de Gemeente u helpen om uit het ruime aanbod aan sociale 
 Hieronder volgen een aantal vragen over uw doelen en interesses. Aan de hand van uw antwoorden ontvangt u aan het einde van de Keuzehulp een overzicht van activiteiten die voor u geschikt zouden kunnen zijn.
 Mocht u er met de online Keuzehulp toch niet uitkomen, dan stelt de Gemeente coaches beschikbaar die u tijdens een huisbezoek of telefonisch kunnen helpen om een passende activiteit voor u te vinden. 
 
-
+## START KEUZEHULP
 
 ### Vraag 1
 
@@ -38,7 +38,7 @@ Heeft u interesse in een gesprek met een coach van de gemeente die u kan begelei
  - Ja, telefonisch
  - Nee
 
-### Persoonlijke uitslag
+## Persoonlijke uitslag
 
 U heeft zojuist de keuzehulp ingevuld om inzicht te krijgen in wat de mogelijkheden zijn om activiteiten te ondernemen in de gemeente Leiden. 
 U heeft aangegeven dat u graag nieuwe mensen zou willen ontmoeten en uw interesses zou willen delen. 
