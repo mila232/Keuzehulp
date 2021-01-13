@@ -75,11 +75,10 @@ De volgende activiteiten passen het beste bij uw interesses en mogelijkheden:
      - Veel mogelijkheden voor eigen voorkeuren wat betreft moment en frequentie
      - Contactpersoon: Piet Bloemen, 06-87654321
 
+### Contact
      
-     ### Contact
+Mocht u nog vragen en/of opmerkingen hebben over deze keuzehulp kunt u tijdens kantooruren contact opnemen met de Gemeente:
      
-     Mocht u nog vragen en/of opmerkingen hebben over deze keuzehulp kunt u tijdens kantooruren contact opnemen met de Gemeente:
-     
-      - tel. nr:
-      - e-mail: 
+ - tel. nr:
+ - e-mail: 
 
