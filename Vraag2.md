@@ -10,3 +10,5 @@ Wat zou u willen bereiken met het meedoen aan een activiteit? (meerdere antwoord
  - Ik zoek een nieuwe hobby/bezigheid
  - Ik wil mijn interesses willen delen
  - Ik zou mijn kennis en vaardigheden willen uitbreiden
+
+[Naar de volgende vraag](./Keuzehulp/Vraag3)
