@@ -6,3 +6,5 @@ Heeft u interesse in een gesprek met een coach van de gemeente die u kan begelei
  - Ja, huisbezoek
  - Ja, telefonisch
  - Nee
+
+[Naar uw persoonlijke uitslag](./Keuzehulp/Uitslag)
