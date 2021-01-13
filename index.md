@@ -54,7 +54,7 @@ De volgende activiteiten passen het beste bij uw interesses en mogelijkheden:
      
      Wekelijks: dinsdag, 16.00-19.00
      
-     Contactpersoon: Annie de Kok, 06-12345678/dekok@depollepel.nl
+     Contactpersoon: Annie de Kok, 06-12345678 / dekok@depollepel.nl
      
  2.  *Klaverjasvereniging* 
      
