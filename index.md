@@ -1,5 +1,11 @@
 ## Welcome to GitHub Pages
 
+Welkom bij de Keuzehulp Sociale Kaart Leiden. Met deze keuzehulp wil de Gemeente Leiden u helpen om uit het ruime aanbod aan sociale voorzieningen en activiteiten een passend resultaat te vinden.  
+
+
+Hoeveel tijd wilt u voor deze activiteit inplannen (excl. reistijd)?
+
+
 You can use the [editor on GitHub](https://github.com/mila232/Keuzehulp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
