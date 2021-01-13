@@ -38,3 +38,12 @@ Heeft u interesse in een gesprek met een coach van de gemeente die u kan begelei
  - Ja, telefonisch
  - Nee
 
+### Persoonlijke uitslag
+
+U heeft zojuist de keuzehulp ingevuld om inzicht te krijgen in wat de mogelijkheden zijn om activiteiten te ondernemen in de gemeente Leiden. 
+U heeft aangegeven dat u graag nieuwe mensen zou willen ontmoeten en uw interesses zou willen delen. 
+Uw interesses zijn Voedsel & Tuinieren en Gezelschap. 
+U heeft aangegeven elke week een activiteit te willen doen. 
+De volgende activiteiten passen het beste bij uw interesses en mogelijkheden:
+
+ 1. Kookclub 'de Pollepel'
