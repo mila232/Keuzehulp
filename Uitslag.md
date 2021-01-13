@@ -33,10 +33,10 @@ De volgende activiteiten passen het beste bij uw interesses en mogelijkheden:
      Bij de Leidse schooltuinen zijn vrijwilligers altijd welkom! 
      Als u houdt van de buitenlucht en ervaring hebt met tuinieren is dat zeker iets voor u. 
      Bij de Leidse schooltuinen heeft u ook de mogelijkheid met kinderen te werken.
+    
+### Contact
      
-     ### Contact
+Mocht u nog vragen en/of opmerkingen hebben over deze keuzehulp kunt u tijdens kantooruren contact opnemen met de Gemeente:
      
-     Mocht u nog vragen en/of opmerkingen hebben over deze keuzehulp kunt u tijdens kantooruren contact opnemen met de Gemeente:
-     
-      - tel. nr:
-      - e-mail: 
+ - tel. nr:
+ - e-mail: 
