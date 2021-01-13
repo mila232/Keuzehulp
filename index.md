@@ -9,11 +9,6 @@ Mocht u er met de online Keuzehulp toch niet uitkomen, dan stelt de Gemeente coa
 
 
 
-### Vraag 1
-
-Hoeveel tijd wilt u voor de activiteit inplannen (excl. reistijd)?
-
-- ... uur
 
 
 ### Vraag 2
