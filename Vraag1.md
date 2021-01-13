@@ -1,4 +1,5 @@
-theme: jekyll-theme-leap-day
+layout: page
+title: "Vraag 1"
 
 ### Vraag 1
 
