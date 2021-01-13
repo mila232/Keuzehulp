@@ -1,6 +1,6 @@
 layout: page
 title: "Vraag 1"
-permalink: /Vraag-1/
+permalink: /Vraag1/
 
 ### Vraag 1
 
