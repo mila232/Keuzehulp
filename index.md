@@ -52,9 +52,8 @@ De volgende activiteiten passen het beste bij uw interesses en mogelijkheden:
      Deze groepjes bestaan uit maximaal vijf mensen van verschillende leeftijden en koken met elkaar. 
      Daarna genieten ze met elkaar van de maaltijd. 
      
-     Wekelijks: dinsdag, 16.00-19.00
-     
-     Contactpersoon: Annie de Kok, 06-12345678 / dekok@depollepel.nl
+     - Wekelijks: dinsdag, 16.00-19.00
+     - Contactpersoon: Annie de Kok, 06-12345678 / dekok@depollepel.nl
      
  2.  *Klaverjasvereniging* 
      
@@ -64,15 +63,18 @@ De volgende activiteiten passen het beste bij uw interesses en mogelijkheden:
      Van te voren aanmelden is niet verplicht. 
      U bent van harte welkom.
      
-     Wekelijks: donderdag, 19:30-23:00
-     
-     Contactpersoon: Petra Koetsier, 06-35189021 / klaverjasvereniging.leiden@gmail.com
+     - Wekelijks: donderdag, 19:30-23:00
+     - Contactpersoon: Petra Koetsier, 06-35189021 / klaverjasvereniging.leiden@gmail.com
 
  3.  *Leidse schooltuinen*
   
      Bij de Leidse schooltuinen zijn vrijwilligers altijd welkom! 
      Als u houdt van de buitenlucht en ervaring hebt met tuinieren is dat zeker iets voor u. 
      Bij de Leidse schooltuinen heeft u ook de mogelijkheid met kinderen te werken.
+     
+     - Veel mogelijkheden voor eigen voorkeuren wat betreft moment en frequentie
+     - Contactpersoon: Piet Bloemen, 06-87654321
+
      
      ### Contact
      
