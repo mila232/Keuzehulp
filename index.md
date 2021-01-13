@@ -16,7 +16,7 @@ Hoeveel tijd wilt u voor de activiteit inplannen (excl. reistijd)?
 - ... uur
 
 
-#### Vraag 2
+### Vraag 2
 
 Wat zou u willen bereiken met het meedoen aan een activiteit? (meerdere antwoorden mogelijk)
 
@@ -29,7 +29,7 @@ Wat zou u willen bereiken met het meedoen aan een activiteit? (meerdere antwoord
  - Ik wil mijn interesses willen delen
  - Ik zou mijn kennis en vaardigheden willen uitbreiden
 
-##### Vraag 3
+### Vraag 3
 
 Heeft u interesse in een gesprek met een coach van de gemeente die u kan begeleiden in het vinden van een passende activiteit?
 
